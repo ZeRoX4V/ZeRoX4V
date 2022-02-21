@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeRoX4V
-- 👀 I’m interested in Pragramation
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java and Angular
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
